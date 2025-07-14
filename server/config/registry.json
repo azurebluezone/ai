@@ -1,6 +1,8 @@
 {
-  "voice": ["coqui", "openai"],
+  "weather": ["openweathermap", "wikipedia"],
   "chat": ["ollama", "together_ai", "openai"],
-  "weather": ["openweathermap"],
-  "knowledge": ["wikipedia"]
+  "voice": ["coqui", "google_tts"],
+  "books": ["google_books"],
+  "currency": ["exchange_rate"],
+  "news": ["newsapi"]
 } 
