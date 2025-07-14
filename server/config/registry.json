@@ -1,0 +1,6 @@
+{
+  "voice": ["coqui", "openai"],
+  "chat": ["ollama", "together_ai", "openai"],
+  "weather": ["openweathermap"],
+  "knowledge": ["wikipedia"]
+} 
