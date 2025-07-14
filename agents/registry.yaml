@@ -1,0 +1,7 @@
+agents:
+  - name: instruct
+    config: ai/agents/instruct/config.yaml
+    personality: ai/agents/instruct/personality.yaml
+    description: বাংলা instruct agent (শিক্ষক)
+    voice_enabled: false
+# ভবিষ্যতে আরও agent এখানে যোগ করুন 
